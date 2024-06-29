@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhattacharya</h1>
+<h1 align="center">Hi 👋, I'm P Bhattacharya</h1>
 <h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch and OpenCV**
